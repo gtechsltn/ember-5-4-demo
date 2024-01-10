@@ -1,30 +1,10 @@
 # Ember 5.4 Demo
 + Node.js v20.10.0
 + NPM v10.2.3
++ NVM v1.1.12
 + Ember.js v5.4
 + Ember-CLI v5.4.1
 + Yarn v1.22.21
-+ Bower v1.8.14
-+ Others
-  + @ember/jquery@2.0.0
-  + ...
-  + bootstrap@3.4.1
-  + ...
-  + ember-auto-import@2.7.2
-  + ember-cli-babel@8.2.0
-  + ember-cli-app-version@6.0.1
-  + ember-cli-dependency-checker@3.3.2
-  + ember-cli@5.4.1
-  + ember-data@5.3.0
-  + ember-source@5.4.0
-  + ...
-  + eonasdan-bootstrap-datetimepicker@4.17.49
-  + jquery@3.7.1
-  + loader.js@4.7.0  
-  + moment-timezone@0.5.44
-  + moment@2.30.1  
-  + webpack@5.89.0
-  + ...
 
 ```
 ember new Demo
@@ -44,7 +24,6 @@ ember s --port=4200 --environment=development
 + https://emberobserver.com/?query=jquery
 + https://www.npmjs.com/search?q=jquery
 + https://yarnpkg.com/package?name=jquery&version=3.7.1
-+ https://github.com/FortAwesome/ember-fontawesome
 
 # Bootstrap
 + **Bootstrap v3.4.1**
@@ -87,3 +66,32 @@ ember s --port=4200 --environment=development
 + How to add jQuery in Ember.js
 + How to use Bootstrap Date Picker with ember
 + How to add Bootstrap Date Picker in Ember.js
+
+# Versions
++ Node.js v20.10.0
++ NPM v10.2.3
++ NVM v1.1.12
++ Ember.js v5.4
++ Ember-CLI v5.4.1
++ Yarn v1.22.21
++ Bower v1.8.14
++ Others
+  + @ember/jquery@2.0.0
+  + ...
+  + bootstrap@3.4.1
+  + ...
+  + ember-auto-import@2.7.2
+  + ember-cli-babel@8.2.0
+  + ember-cli-app-version@6.0.1
+  + ember-cli-dependency-checker@3.3.2
+  + ember-cli@5.4.1
+  + ember-data@5.3.0
+  + ember-source@5.4.0
+  + ...
+  + eonasdan-bootstrap-datetimepicker@4.17.49
+  + jquery@3.7.1
+  + loader.js@4.7.0  
+  + moment-timezone@0.5.44
+  + moment@2.30.1  
+  + webpack@5.89.0
+  + ...
