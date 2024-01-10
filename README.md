@@ -83,3 +83,7 @@ ember s --port=4200 --environment=development
 # Questions
 + What's the suggested way to add ... to Ember.js site:discuss.emberjs.com
 + How to add ... to Ember.js site:discuss.emberjs.com
++ How to use jQuery with ember
++ How to add jQuery in Ember.js
++ How to use Bootstrap Date Picker with ember
++ How to add Bootstrap Date Picker in Ember.js
