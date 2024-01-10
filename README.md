@@ -85,6 +85,18 @@ ember s --port=4200 --environment=development
 + https://www.sitepoint.com/how-to-integrate-jquery-plugins-into-an-ember-application/
 + https://stackoverflow.com/questions/57966504/how-to-make-eonasdan-datetimepicker-css-work-properly
 + https://stackoverflow.com/questions/60209985/how-do-i-import-a-scss-npm-module-into-ember
++ https://toddjordan.github.io/ember-cli-dynamic-forms/
++ https://fenixrepo.fao.org/cdn/js/alpaca/1.5.17/dist/alpaca/jsdoc/index.html
+
+### Alpaca and Alpaca Forms
++ Alpaca - JSON Forms for jQuery and Bootstrap
++ Alpaca Forms - Easy Forms for jQuery
++ https://emberobserver.com/categories/forms
++ https://toddjordan.github.io/ember-cli-dynamic-forms/
++ https://stackoverflow.com/questions/60782452/alpaca-is-there-a-form-onready
++ https://fenixrepo.fao.org/cdn/js/alpaca/1.5.17/dist/alpaca/jsdoc/index.html
++ Alpaca WordPress Theme Documentation
++ https://www.loftocean.com/alpaca-doc/documentation.html
 
 # Questions
 + What's the suggested way to add ... to Ember.js site:discuss.emberjs.com
