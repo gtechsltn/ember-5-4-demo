@@ -30,12 +30,18 @@ ember s --port=4200 --environment=development
 + https://emberobserver.com/?query=bootstrap
 + https://www.npmjs.com/search?q=bootstrap
 + https://yarnpkg.com/package?name=bootstrap&version=3.4.1
++ [Bootstrap 3](https://www.w3schools.com/bootstrap/)
 
 # Font Awesome
 + **Font Awesome v4.7.0**
 + https://fontawesome.com/versions
 + https://yarnpkg.com/package?name=font-awesome&version=4.7.0
 + https://github.com/FortAwesome/ember-fontawesome
+
+# Icons
++ [Font Awesome Icons](https://www.w3schools.com/icons/fontawesome_icons_intro.asp)
++ [Google Icons](https://www.w3schools.com/icons/google_icons_intro.asp)
++ [Bootstrap Glyphicons](https://www.w3schools.com/icons/bootstrap_icons_glyphicons.asp)
 
 # Eonasdan Bootstrap DateTimePicker
 + **Eonasdan Bootstrap DateTimePicker 4.7.0**
@@ -51,6 +57,9 @@ ember s --port=4200 --environment=development
 + https://monim67.github.io/bootstrap-datetimepicker/
 + https://stackoverflow.com/questions/40035730/bootstrap-date-time-picker
 + https://stackoverflow.com/questions/41428990/bootstrap-3-datepicker-v4-docs-24-hours-time-format
++ https://fontawesome.com/v4/cheatsheet/
++ https://fontawesome.com/v4/icon/home
++ https://fontawesome.com/v4/icon/font-awesome
 
 # CDN
 + https://cdnjs.com/libraries/eonasdan-bootstrap-datetimepicker/4.17.47
