@@ -64,16 +64,21 @@ ember s --port=4200 --environment=development
 + Eonasdan Bootstrap 3 DateTimePicker
 + https://emberobserver.com/?query=datetimepicker
 + https://www.npmjs.com/search?q=eonasdan
++ https://www.npmjs.com/package/eonasdan-bootstrap-datetimepicker-npm
 + https://yarnpkg.com/package?name=eonasdan-bootstrap-datetimepicker&version=4.17.49
++ https://snyk.io/advisor/npm-package/bootstrap-datetimepicker-npm
 
 ## Samples
++ https://monim67.github.io/bootstrap-datetimepicker/
 + https://stackoverflow.com/questions/40035730/bootstrap-date-time-picker
 + https://stackoverflow.com/questions/41428990/bootstrap-3-datepicker-v4-docs-24-hours-time-format
-+ https://www.npmjs.com/package/eonasdan-bootstrap-datetimepicker-npm
-+ https://snyk.io/advisor/npm-package/bootstrap-datetimepicker-npm
+
+# CDN
++ https://cdnjs.com/libraries/eonasdan-bootstrap-datetimepicker/4.17.47
 
 # How-To(s)
 + https://www.sitepoint.com/how-to-integrate-jquery-plugins-into-an-ember-application/
++ https://stackoverflow.com/questions/57966504/how-to-make-eonasdan-datetimepicker-css-work-properly
 
 # Questions
 + What's the suggested way to add ... to Ember.js site:discuss.emberjs.com
