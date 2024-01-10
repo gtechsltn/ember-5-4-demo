@@ -70,6 +70,10 @@ ember s --port=4200 --environment=development
 + https://stackoverflow.com/questions/40035730/bootstrap-date-time-picker
 + https://stackoverflow.com/questions/41428990/bootstrap-3-datepicker-v4-docs-24-hours-time-format
 + https://www.npmjs.com/package/eonasdan-bootstrap-datetimepicker-npm
++ https://snyk.io/advisor/npm-package/bootstrap-datetimepicker-npm
+
+# How-To(s)
++ https://www.sitepoint.com/how-to-integrate-jquery-plugins-into-an-ember-application/
 
 # Questions
 + What's the suggested way to add ... to Ember.js site:discuss.emberjs.com
