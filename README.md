@@ -10,7 +10,9 @@
 ember new Demo
 cd Demo
 yarn install
+ember install ember-cli-sass sass
 npm install --save-dev eonasdan-bootstrap-datetimepicker
+ember install ember-cli-bootstrap-datetimepicker
 yarn add --dev jquery@^3.0
 yarn add --dev bootstrap@^3.4
 yarn add --dev moment@^2.10
