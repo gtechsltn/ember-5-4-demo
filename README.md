@@ -63,8 +63,23 @@ ember s --port=4200 --environment=development
 + https://fontawesome.com/v4/icon/home
 + https://fontawesome.com/v4/icon/font-awesome
 
-# CDN
-+ https://cdnjs.com/libraries/eonasdan-bootstrap-datetimepicker/4.17.47
+# CDN (Libraries)
++ https://cdnjs.com/libraries/jquery
++ https://cdnjs.com/libraries/handlebars.js
++ https://cdnjs.com/libraries/twitter-bootstrap
++ https://cdnjs.com/libraries/font-awesome
++ https://cdnjs.com/libraries/eonasdan-bootstrap-datetimepicker
++ https://cdnjs.com/libraries/bootstrap
++ https://cdnjs.com/libraries/bootstrap-datepicker
++ https://cdnjs.com/libraries/bootstrap-table
++ https://cdnjs.com/libraries/bootstrap-fileinput
++ https://cdnjs.com/libraries/bootstrap-select
++ https://cdnjs.com/libraries/bootstrap-multiselect
++ https://cdnjs.com/libraries/moment.js
++ https://cdnjs.com/libraries/highlight.js
++ https://cdnjs.com/libraries/alpaca
++ https://cdnjs.com/libraries/select2
++ https://cdnjs.com/libraries/datatables
 
 # How-To(s)
 + https://www.sitepoint.com/how-to-integrate-jquery-plugins-into-an-ember-application/
